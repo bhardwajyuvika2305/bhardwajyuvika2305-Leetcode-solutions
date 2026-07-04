@@ -49,8 +49,8 @@ leetcode-solutions/
 Daily LeetCode Challenge — One problem every day.
 
 ## ⭐ Connect With Me
-- LinkedIn: (Add your LinkedIn profile)
-- GitHub: (Your GitHub profile)
+- LinkedIn: (https://www.linkedin.com/in/yuvika-bhardwaj2305/)
+- Leetcode: (https://leetcode.com/u/YuvikaBytes/)
 
 ---
 *"Consistency beats intensity."*
