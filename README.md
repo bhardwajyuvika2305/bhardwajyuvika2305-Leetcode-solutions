@@ -9,8 +9,8 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 - Prepare for coding interviews.
 
 ## 💻 Languages Used
+- c++
 - Python
-- SQL
 - Java (coming soon)
 
 ## 📊 Progress
