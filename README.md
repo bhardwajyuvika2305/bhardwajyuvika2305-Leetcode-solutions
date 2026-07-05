@@ -18,7 +18,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | Day | Problem | Difficulty | Language | Solution |
 |-----|---------|------------|----------|----------|
 | 1 | Two Sum | Easy | C++ | ✅ |
-
+| 2 | Add Two Numbers | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
