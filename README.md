@@ -17,9 +17,8 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 
 | Day | Problem | Difficulty | Language | Solution |
 |-----|---------|------------|----------|----------|
-| 1 | Two Sum | Easy | Python | ✅ |
-| 2 | Valid Parentheses | Easy | Python | ✅ |
-| 3 | Merge Sorted Array | Easy | Python | ✅ |
+| 1 | Two Sum | Easy | C++ | ✅ |
+
 
 ## 📂 Repository Structure
 
