@@ -27,7 +27,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 leetcode-solutions/
 │
 ├── Python/
-├── SQL/
+├── C++/
 ├── Java/
 └── README.md
 ```
