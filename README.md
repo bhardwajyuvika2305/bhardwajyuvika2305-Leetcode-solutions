@@ -21,6 +21,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 2 | Add Two Numbers | Medium | C++ | ✅ |
 | 3 | Common Substring | Medium | C++ | ✅ |
 | 4 | Median of Two Sorted Arrays  | Hard | C++ | ✅ |
+| 5 | Zigzag Conversion  | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
