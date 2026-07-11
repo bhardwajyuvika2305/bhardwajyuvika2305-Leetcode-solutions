@@ -22,6 +22,9 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 3 | Common Substring | Medium | C++ | ✅ |
 | 4 | Median of Two Sorted Arrays  | Hard | C++ | ✅ |
 | 5 | Zigzag Conversion  | Medium | C++ | ✅ |
+| 6 | Reverse Integer | Medium | C++ | ✅ |
+| 7 | Palindrome NUmber | Easy | C++ | ✅ |
+| 8 | Regular Expression Making | Hard | C++ | ✅ |
 
 ## 📂 Repository Structure
 
