@@ -1,3 +1,11 @@
+/* Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
+'.' Matches any single character.​​​​
+'*' Matches zero or more of the preceding element.
+Return a boolean indicating whether the matching covers the entire input string (not partial).
+*/
+
+// Solutiom :- 
+
 #include <iostream>
 using namespace std;
 #include <vector>
@@ -10,7 +18,7 @@ public:
         vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
         
         dp[0][0] = true; // empty string matches empty pattern 
-              
+
         // Handle patterns like a*, a*b*, a*b*c* matching empty string
         for (int j = 2; j <= n; j++) {
             if (p[j - 1] == '*') {
