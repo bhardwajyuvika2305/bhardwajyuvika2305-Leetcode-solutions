@@ -26,6 +26,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 7 | Palindrome NUmber | Easy | C++ | ✅ |
 | 8 | Regular Expression Making | Hard | C++ | ✅ |
 | 9 | Container with Most Water | Medium | C++ | ✅ |
+| 10 | Integer to Roman | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
