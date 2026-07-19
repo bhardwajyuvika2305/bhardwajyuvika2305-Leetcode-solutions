@@ -29,6 +29,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 10 | Integer to Roman | Medium | C++ | ✅ |
 | 11 | Longest Common Prefix | Easy | C++ | ✅ |
 | 12 | Return all the Triplets | Medium | C++ | ✅ |
+| 13 | Letter Combination of a Phone Number | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
