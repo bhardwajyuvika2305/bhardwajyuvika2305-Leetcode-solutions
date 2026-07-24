@@ -34,6 +34,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 15 | Return all the quadruplates | Medium | C++ | ✅ |
 | 16 | Single Number | Easy | C++ | ✅ |
 | 17 | Maximum SubArray | Medium | C++ | ✅ |
+| 18 | Majority Element | Easy | C++ | ✅ |
 
 ## 📂 Repository Structure
 
