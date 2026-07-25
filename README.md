@@ -17,24 +17,25 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 
 | Day | Problem | Difficulty | Language | Solution |
 |-----|---------|------------|----------|----------|
-| 1 | Two Sum | Easy | C++ | ✅ |
-| 2 | Add Two Numbers | Medium | C++ | ✅ |
-| 3 | Common Substring | Medium | C++ | ✅ |
-| 4 | Median of Two Sorted Arrays  | Hard | C++ | ✅ |
-| 5 | Zigzag Conversion  | Medium | C++ | ✅ |
-| 6 | Reverse Integer | Medium | C++ | ✅ |
-| 7 | Palindrome NUmber | Easy | C++ | ✅ |
-| 8 | Regular Expression Making | Hard | C++ | ✅ |
-| 9 | Container with Most Water | Medium | C++ | ✅ |
-| 10 | Integer to Roman | Medium | C++ | ✅ |
-| 11 | Longest Common Prefix | Easy | C++ | ✅ |
-| 12 | Return all the Triplets | Medium | C++ | ✅ |
-| 13 | Letter Combination of a Phone Number | Medium | C++ | ✅ |
-| 14 | Roman to Integer | Medium | Python | ✅ |
-| 15 | Return all the quadruplates | Medium | C++ | ✅ |
-| 16 | Single Number | Easy | C++ | ✅ |
-| 17 | Maximum SubArray | Medium | C++ | ✅ |
-| 18 | Majority Element | Easy | C++ | ✅ |
+| 1 | LC 1: Two Sum | Easy | C++ | ✅ |
+| 2 | LC 2: Add Two Numbers | Medium | C++ | ✅ |
+| 3 | LC 3: Common Substring | Medium | C++ | ✅ |
+| 4 | LC 4: Median of Two Sorted Arrays  | Hard | C++ | ✅ |
+| 5 | LC 6: Zigzag Conversion  | Medium | C++ | ✅ |
+| 6 | LC 7: Reverse Integer | Medium | C++ | ✅ |
+| 7 | LC 9: Palindrome NUmber | Easy | C++ | ✅ |
+| 8 | LC 10: Regular Expression Making | Hard | C++ | ✅ |
+| 9 | LC 11: Container with Most Water | Medium | C++ | ✅ |
+| 10 | LC 12: Integer to Roman | Medium | C++ | ✅ |
+| 11 | LC 14: Longest Common Prefix | Easy | C++ | ✅ |
+| 12 | LC 15: Return all the Triplets | Medium | C++ | ✅ |
+| 13 | LC 17: Letter Combination of a Phone Number | Medium | C++ | ✅ |
+| 14 | LC 13: Roman to Integer | Medium | Python | ✅ |
+| 15 | LC 18: Return all the quadruplates | Medium | C++ | ✅ |
+| 16 | LC 136: Single Number | Easy | C++ | ✅ |
+| 17 | LC 53: Maximum SubArray | Medium | C++ | ✅ |
+| 18 | LC 169: Majority Element | Easy | C++ | ✅ |
+| 19 | LC 215: Kth Largest Element  | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
