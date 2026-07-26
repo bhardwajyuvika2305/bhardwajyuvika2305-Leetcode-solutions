@@ -36,6 +36,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 17 | LC 53: Maximum SubArray | Medium | C++ | ✅ |
 | 18 | LC 169: Majority Element | Easy | C++ | ✅ |
 | 19 | LC 215: Kth Largest Element  | Medium | C++ | ✅ |
+| 20 | LC 50: Pow(x,n) | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
