@@ -37,6 +37,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 18 | LC 169: Majority Element | Easy | C++ | ✅ |
 | 19 | LC 215: Kth Largest Element  | Medium | C++ | ✅ |
 | 20 | LC 50: Pow(x,n) | Medium | C++ | ✅ |
+| 21 | LC 238: Product of Array Except Self index | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
