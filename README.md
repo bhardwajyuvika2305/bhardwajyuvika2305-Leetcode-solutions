@@ -38,6 +38,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 19 | LC 215: Kth Largest Element  | Medium | C++ | ✅ |
 | 20 | LC 50: Pow(x,n) | Medium | C++ | ✅ |
 | 21 | LC 238: Product of Array Except Self index | Medium | C++ | ✅ |
+| 22 | LC 54: Spiral Matrix | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
