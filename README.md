@@ -23,7 +23,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 4 | LC 4: Median of Two Sorted Arrays  | Hard | C++ | ✅ |
 | 5 | LC 6: Zigzag Conversion  | Medium | C++ | ✅ |
 | 6 | LC 7: Reverse Integer | Medium | C++ | ✅ |
-| 7 | LC 9: Palindrome NUmber | Easy | C++ | ✅ |
+| 7 | LC 9: Palindrome Number | Easy | C++ | ✅ |
 | 8 | LC 10: Regular Expression Making | Hard | C++ | ✅ |
 | 9 | LC 11: Container with Most Water | Medium | C++ | ✅ |
 | 10 | LC 12: Integer to Roman | Medium | C++ | ✅ |
@@ -31,7 +31,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 12 | LC 15: Return all the Triplets | Medium | C++ | ✅ |
 | 13 | LC 17: Letter Combination of a Phone Number | Medium | C++ | ✅ |
 | 14 | LC 13: Roman to Integer | Medium | Python | ✅ |
-| 15 | LC 18: Return all the quadruplates | Medium | C++ | ✅ |
+| 15 | LC 18: Return all the Quadruplates | Medium | C++ | ✅ |
 | 16 | LC 136: Single Number | Easy | C++ | ✅ |
 | 17 | LC 53: Maximum SubArray | Medium | C++ | ✅ |
 | 18 | LC 169: Majority Element | Easy | C++ | ✅ |
@@ -39,6 +39,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 20 | LC 50: Pow(x,n) | Medium | C++ | ✅ |
 | 21 | LC 238: Product of Array Except Self index | Medium | C++ | ✅ |
 | 22 | LC 54: Spiral Matrix | Medium | C++ | ✅ |
+| 23 | LC 852: Peak Index In Mountain Array | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
