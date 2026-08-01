@@ -17,7 +17,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 
 | Day | Problem | Difficulty | Language | Solution |
 |-----|---------|------------|----------|----------|
-| 1 | LC 1: Two Sum | Easy | C++ | ✅ |
+| 1 | LC 1: Two Sum | Easy | C++ | c++/0001_Two_Sum.cpp |
 | 2 | LC 2: Add Two Numbers | Medium | C++ | ✅ |
 | 3 | LC 3: Common Substring | Medium | C++ | ✅ |
 | 4 | LC 4: Median of Two Sorted Arrays  | Hard | C++ | ✅ |
