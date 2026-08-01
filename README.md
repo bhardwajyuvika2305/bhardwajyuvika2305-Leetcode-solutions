@@ -40,7 +40,8 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 21 | LC 238: Product of Array Except Self index | Medium | C++ | ✅ |
 | 22 | LC 54: Spiral Matrix | Medium | C++ | ✅ |
 | 23 | LC 852: Peak Index In Mountain Array | Medium | C++ | ✅ |
-
+| 24 | LC 540: Single Element in Sorted Array | Medium | C++ | ✅
+ 
 ## 📂 Repository Structure
 
 ```
