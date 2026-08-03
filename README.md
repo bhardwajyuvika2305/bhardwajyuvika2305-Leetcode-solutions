@@ -42,7 +42,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 23 | LC 852: Peak Index In Mountain Array | Medium | C++ | ✅ |
 | 24 | LC 540: Single Element in Sorted Array | Medium | C++ | ✅ |
 | 25 | LC 1037: Valid Boomerang | Easy | C++ | ✅ |
-| 26 | LC 1406: Stone Game ||| | Hard | C++ | ✅ |
+| 26 | LC 1406: Stone Game | Hard | C++ | ✅ |
 
 ## 📂 Repository Structure
 
