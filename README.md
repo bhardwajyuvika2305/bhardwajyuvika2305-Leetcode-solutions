@@ -46,7 +46,9 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 27 | LC 3731: Remove Missing Elements | Easy | C++ | ✅ |
 | 28 | LC 3310: Remove Methods From Projects | Medium | C++ | ✅ |
 | 29 | LC 75: Sort Colors | Medium | C++ | ✅ |
- 
+| 30 | LC 88: Merge Sorted Array | Easy | C++ | ✅ |
+
+
 ## 📂 Repository Structure
 
 ```
