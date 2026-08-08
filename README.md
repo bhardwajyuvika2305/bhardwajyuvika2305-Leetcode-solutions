@@ -47,7 +47,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 28 | LC 3310: Remove Methods From Projects | Medium | C++ | ✅ |
 | 29 | LC 75: Sort Colors | Medium | C++ | ✅ |
 | 30 | LC 88: Merge Sorted Array | Easy | C++ | ✅ |
-
+| 31 | LC 31: Next Permutation | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
