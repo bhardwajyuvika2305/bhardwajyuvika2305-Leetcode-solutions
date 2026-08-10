@@ -48,6 +48,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 29 | LC 75: Sort Colors | Medium | C++ | ✅ |
 | 30 | LC 88: Merge Sorted Array | Easy | C++ | ✅ |
 | 31 | LC 31: Next Permutation | Medium | C++ | ✅ |
+| 32 | LC 567: Permutation In String  | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
