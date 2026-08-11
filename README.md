@@ -49,6 +49,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 30 | LC 88: Merge Sorted Array | Easy | C++ | ✅ |
 | 31 | LC 31: Next Permutation | Medium | C++ | ✅ |
 | 32 | LC 567: Permutation In String  | Medium | C++ | ✅ |
+| 33 | LC 44: Wildcard Matching  | Hard | C++ | ✅ |
 
 ## 📂 Repository Structure
 
