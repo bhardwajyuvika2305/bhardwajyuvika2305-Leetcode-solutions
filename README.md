@@ -51,6 +51,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 32 | LC 567: Permutation In String  | Medium | C++ | ✅ |
 | 33 | LC 44: Wildcard Matching  | Hard | C++ | ✅ |
 | 34 | LC 48: Rotate Image | Medium | C++ | ✅ |
+| 35 | LC 32: Unique Path | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
