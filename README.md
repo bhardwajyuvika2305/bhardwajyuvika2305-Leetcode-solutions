@@ -52,6 +52,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 33 | LC 44: Wildcard Matching  | Hard | C++ | ✅ |
 | 34 | LC 48: Rotate Image | Medium | C++ | ✅ |
 | 35 | LC 32: Unique Path | Medium | C++ | ✅ |
+| 36 | LC 151: Reverse Words In String | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
