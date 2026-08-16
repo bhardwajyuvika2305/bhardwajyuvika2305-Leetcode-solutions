@@ -53,6 +53,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 34 | LC 48: Rotate Image | Medium | C++ | ✅ |
 | 35 | LC 32: Unique Path | Medium | C++ | ✅ |
 | 36 | LC 151: Reverse Words In String | Medium | C++ | ✅ |
+| 37 | LC 74: Search A 2D Matrix | Medium | C++ | ✅ |
 
 ## 📂 Repository Structure
 
