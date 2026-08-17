@@ -37,24 +37,24 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 18 | LC 169: Majority Element | Easy | C++ | [✅ Code](./c++/0018_Majority_Element.cpp)  |
 | 19 | LC 215: Kth Largest Element  | Medium | C++ | [✅ Code](./c++/0019_Kth_Largest_Element.cpp)  |
 | 20 | LC 50: Pow(x,n) | Medium | C++ | [✅ Code](./c++/0020_Pow(X,N).cpp)  |
-| 21 | LC 238: Product of Array Except Self index | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 22 | LC 54: Spiral Matrix | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 23 | LC 852: Peak Index In Mountain Array | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 24 | LC 540: Single Element in Sorted Array | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 25 | LC 1037: Valid Boomerang | Easy | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 26 | LC 1406: Stone Game | Hard | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 27 | LC 3731: Remove Missing Elements | Easy | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 28 | LC 3310: Remove Methods From Projects | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 29 | LC 75: Sort Colors | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 30 | LC 88: Merge Sorted Array | Easy | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 31 | LC 31: Next Permutation | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 32 | LC 567: Permutation In String  | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 33 | LC 44: Wildcard Matching  | Hard | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 34 | LC 48: Rotate Image | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 35 | LC 32: Unique Path | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 36 | LC 151: Reverse Words In String | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 37 | LC 74: Search A 2D Matrix | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
-| 38 | LC 240: Search A 2D Matrix II | Medium | C++ | [✅ Code](./c++/0001_Two_Sum.cpp)  |
+| 21 | LC 238: Product of Array Except Self index | Medium | C++ | [✅ Code](./c++/0021_Product_Of_Array_Except_Self.cpp)  |
+| 22 | LC 54: Spiral Matrix | Medium | C++ | [✅ Code](./c++/0022_Spiral_Matrix.cpp)  |
+| 23 | LC 852: Peak Index In Mountain Array | Medium | C++ | [✅ Code](./c++/0023_Peak_Index_In_Mountain_Array.cpp)  |
+| 24 | LC 540: Single Element in Sorted Array | Medium | C++ | [✅ Code](./c++/0024_Single_Element_In_Sorted_Array.cpp)  |
+| 25 | LC 1037: Valid Boomerang | Easy | C++ | [✅ Code](./c++/0025_Valid_Boomerang.cpp)  |
+| 26 | LC 1406: Stone Game | Hard | C++ | [✅ Code](./c++/0026_Stone_Game.cpp)  |
+| 27 | LC 3731: Remove Missing Elements | Easy | C++ | [✅ Code](./c++/0027_Find_Missing_Elements.cpp)  |
+| 28 | LC 3310: Remove Methods From Projects | Medium | C++ | [✅ Code](./c++/0028_Remove_Methods_From_Projects.cpp)  |
+| 29 | LC 75: Sort Colors | Medium | C++ | [✅ Code](./c++/0029_Sort_Colors.cpp) |
+| 30 | LC 88: Merge Sorted Array | Easy | C++ | [✅ Code](./c++/0030_Merge_Sorted_Array.cpp)  |
+| 31 | LC 31: Next Permutation | Medium | C++ | [✅ Code](./c++/0031_Nxet_Permutation.cpp)  |
+| 32 | LC 567: Permutation In String  | Medium | C++ | [✅ Code](./c++/0032_Permutation_In_String.cpp)  |
+| 33 | LC 44: Wildcard Matching  | Hard | C++ | [✅ Code](./c++/0033_Wildcard_Matching.cpp)  |
+| 34 | LC 48: Rotate Image | Medium | C++ | [✅ Code](./c++/0034_Rotate_Image.cpp)  |
+| 35 | LC 32: Unique Path | Medium | C++ | [✅ Code](./c++/0035_Unique_Paths.cpp)  |
+| 36 | LC 151: Reverse Words In String | Medium | C++ | [✅ Code](./c++/0036_Reverse_Words_In_String.cpp)  |
+| 37 | LC 74: Search A 2D Matrix | Medium | C++ | [✅ Code](./c++/0037_Search_a_2D_Matriz.cpp)  |
+| 38 | LC 240: Search A 2D Matrix II | Medium | C++ | [✅ Code](./c++/0038_Search_a_2D_Matrix_II.cpp)  |
 
 ## 📂 Repository Structure
 
