@@ -55,7 +55,8 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 36 | LC 151: Reverse Words In String | Medium | C++ | [✅ Code](./c++/0036_Reverse_Words_In_String.cpp)  |
 | 37 | LC 74: Search A 2D Matrix | Medium | C++ | [✅ Code](./c++/0037_Search_a_2D_Matriz.cpp)  |
 | 38 | LC 240: Search A 2D Matrix II | Medium | C++ | [✅ Code](./c++/0038_Search_a_2D_Matrix_II.cpp)  |
-| 39 | LC 344: Reverse String | Easy | C++ | [✅ Code](./c++/0039_Reverse_String.cpp)  |
+| 39 | LC 344: Reverse String | Easy | C++ | [✅ Code](./c++/0039_Reverse_String.cpp)  
+| 40 | LC 560: SubArray Sum Equals k | Medium | C++ | [✅ Code](./c++/0040_Subarray_Sum_Equals_k.cpp)  |
 
 ## 📂 Repository Structure
 
