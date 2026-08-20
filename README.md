@@ -57,6 +57,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 38 | LC 240: Search A 2D Matrix II | Medium | C++ | [✅ Code](./c++/0038_Search_a_2D_Matrix_II.cpp)  |
 | 39 | LC 344: Reverse String | Easy | C++ | [✅ Code](./c++/0039_Reverse_String.cpp)  
 | 40 | LC 560: SubArray Sum Equals k | Medium | C++ | [✅ Code](./c++/0040_Subarray_Sum_Equals_k.cpp)  |
+| 41 | LC 47: Permutations II | Medium | C++ | [✅ Code](./c++/0041_Permutations_II.cpp)  |
 
 ## 📂 Repository Structure
 
