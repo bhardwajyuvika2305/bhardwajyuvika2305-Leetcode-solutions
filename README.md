@@ -59,7 +59,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 40 | LC 560: SubArray Sum Equals k | Medium | C++ | [✅ Code](./c++/0040_Subarray_Sum_Equals_k.cpp)  |
 | 41 | LC 47: Permutations II | Medium | C++ | [✅ Code](./c++/0041_Permutations_II.cpp)  |
 | 42 | LC 51: N-Queens | Hard | C++ | [✅ Code](./c++/0042_N_Queens.cpp)  |
-
+| 43 | LC 49: Group Anagrams | Medium | C++ | [✅ Code](./c++/0043_Group_Anagrams.cpp)  |
 
 ## 📂 Repository Structure
 
