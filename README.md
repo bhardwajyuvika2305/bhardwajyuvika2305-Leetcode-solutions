@@ -61,6 +61,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 42 | LC 51: N-Queens | Hard | C++ | [✅ Code](./c++/0042_N_Queens.cpp)  |
 | 43 | LC 49: Group Anagrams | Medium | C++ | [✅ Code](./c++/0043_Group_Anagrams.cpp)  |
 | 44 | LC 52: N-Queens II | Hard | C++ | [✅ Code](./c++/0044_N_Queens_II.cpp)  |
+| 45 | LC 69: SQRT(X) | Easy | C++ | [✅ Code](./c++/0045_sqrt(x).cpp)  |
 
 ## 📂 Repository Structure
 
