@@ -64,6 +64,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 45 | LC 69: SQRT(X) | Easy | C++ | [✅ Code](./c++/0045_sqrt(x).cpp)  |
 | 46 | LC 64: Minimum Path Sum | Medium | C++ | [✅ Code](./c++/0046_Minimum_Path_Sum.cpp)  |
 | 47 | LC 55: Jump Game | Medium | C++ | [✅ Code](./c++/0047_Jump_Game.cpp)  |
+| 48 | LC 60: Permutation Sequence | Hard | C++ | [✅ Code](./c++/0048_Permutation_Sequence.cpp)  |
 
 ## 📂 Repository Structure
 
