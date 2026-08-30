@@ -66,6 +66,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 47 | LC 55: Jump Game | Medium | C++ | [✅ Code](./c++/0047_Jump_Game.cpp)  |
 | 48 | LC 60: Permutation Sequence | Hard | C++ | [✅ Code](./c++/0048_Permutation_Sequence.cpp)  |
 | 49 | LC 68: Text Justification | Hard | C++ | [✅ Code](./c++/0049_Text_Justification.cpp)  |
+| 50 | LC 65: Valid Number | Hard | C++ | [✅ Code](./c++/0050_Valid_Number.cpp)  |
 
 ## 📂 Repository Structure
 
