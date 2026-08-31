@@ -67,6 +67,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 48 | LC 60: Permutation Sequence | Hard | C++ | [✅ Code](./c++/0048_Permutation_Sequence.cpp)  |
 | 49 | LC 68: Text Justification | Hard | C++ | [✅ Code](./c++/0049_Text_Justification.cpp)  |
 | 50 | LC 65: Valid Number | Hard | C++ | [✅ Code](./c++/0050_Valid_Number.cpp)  |
+| 51 | LC 76: Minimum Window Substring | Hard | C++ | [✅ Code](./c++/0051_Minimum_Window_Substring.cpp)  |
 
 ## 📂 Repository Structure
 
