@@ -69,6 +69,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 50 | LC 65: Valid Number | Hard | C++ | [✅ Code](./c++/0050_Valid_Number.cpp)  |
 | 51 | LC 76: Minimum Window Substring | Hard | C++ | [✅ Code](./c++/0051_Minimum_Window_Substring.cpp)  |
 | 52 | LC 94: Binary Tree Inorder Traversal | Easy | C++ | [✅ Code](./c++/0052_Binary_Tree_Inorder_Traversal.cpp)  |
+| 53 | LC 57: Insert Interval | Medium | C++ | [✅ Code](./c++/0053_Insert_Interval.cpp)  |
 
 ## 📂 Repository Structure
 
