@@ -71,6 +71,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 52 | LC 94: Binary Tree Inorder Traversal | Easy | C++ | [✅ Code](./c++/0052_Binary_Tree_Inorder_Traversal.cpp)  |
 | 53 | LC 57: Insert Interval | Medium | C++ | [✅ Code](./c++/0053_Insert_Interval.cpp)  |
 | 54 | LC 86: Partition List | Medium | C++ | [✅ Code](./c++/0054_Partition_List.cpp)  |
+| 55 | LC 93: Restore IP Adresses | Medium | C++ | [✅ Code](./c++/0055_Restore_IP_Adresses.cpp)  |
 
 ## 📂 Repository Structure
 
