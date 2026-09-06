@@ -72,6 +72,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 53 | LC 57: Insert Interval | Medium | C++ | [✅ Code](./c++/0053_Insert_Interval.cpp)  |
 | 54 | LC 86: Partition List | Medium | C++ | [✅ Code](./c++/0054_Partition_List.cpp)  |
 | 55 | LC 93: Restore IP Adresses | Medium | C++ | [✅ Code](./c++/0055_Restore_IP_Adresses.cpp)  |
+| 56 | LC 115: Distinct Subsequences | Hard | C++ | [✅ Code](./c++/0056_Distinct_Subsequences.cpp)  |
 
 ## 📂 Repository Structure
 
