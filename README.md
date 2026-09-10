@@ -75,6 +75,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 56 | LC 115: Distinct Subsequences | Hard | C++ | [✅ Code](./c++/0056_Distinct_Subsequences.cpp)  |
 | 57 | LC 70: Climbing Stairs | Easy | C++ | [✅ Code](./c++/0057_Climbing_Stairs.cpp)  |
 | 58 | LC 71: Simplify Path | Medium | C++ | [✅ Code](./c++/0058_Simplify_Paths.cpp)  |
+| 59 | LC 87: Scramble String | Hard | C++ | [✅ Code](./c++/0059_Scramble_String.cpp)  |
 
 ## 📂 Repository Structure
 
