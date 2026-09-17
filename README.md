@@ -76,7 +76,8 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 57 | LC 70: Climbing Stairs | Easy | C++ | [✅ Code](./c++/0057_Climbing_Stairs.cpp)  |
 | 58 | LC 71: Simplify Path | Medium | C++ | [✅ Code](./c++/0058_Simplify_Paths.cpp)  |
 | 59 | LC 87: Scramble String | Hard | C++ | [✅ Code](./c++/0059_Scramble_String.cpp)  |
-| 60 | LC 835: Image Overlap | Medium | C++ | [✅ Code](./c++/0060_Image_Overlap.cpp)  |
+| 60 | LC 835: Image Overlap | Medium | C++ | [✅ Code](./c++/0060_Image_Overlap.cpp) |
+| 61 | LC 79: Word Search | Medium | C++ | [✅ Code](./c++/0061_Word_Search.cpp)  |
 
 ## 📂 Repository Structure
 
