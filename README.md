@@ -78,6 +78,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 59 | LC 87: Scramble String | Hard | C++ | [✅ Code](./c++/0059_Scramble_String.cpp)  |
 | 60 | LC 835: Image Overlap | Medium | C++ | [✅ Code](./c++/0060_Image_Overlap.cpp) |
 | 61 | LC 79: Word Search | Medium | C++ | [✅ Code](./c++/0061_Word_Search.cpp)  |
+| 62 | LC 73: Set Matrix Zeroes | Medium | C++ | [✅ Code](./c++/0062_Set_Matrix_Zeroes.cpp)  |
 
 ## 📂 Repository Structure
 
