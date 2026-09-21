@@ -55,7 +55,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 36 | LC 151: Reverse Words In String | Medium | C++ | [✅ Code](./c++/0036_Reverse_Words_In_String.cpp)  |
 | 37 | LC 74: Search A 2D Matrix | Medium | C++ | [✅ Code](./c++/0037_Search_a_2D_Matriz.cpp)  |
 | 38 | LC 240: Search A 2D Matrix II | Medium | C++ | [✅ Code](./c++/0038_Search_a_2D_Matrix_II.cpp)  |
-| 39 | LC 344: Reverse String | Easy | C++ | [✅ Code](./c++/0039_Reverse_String.cpp)  
+| 39 | LC 344: Reverse String | Easy | C++ | [✅ Code](./c++/0039_Reverse_String.cpp) |
 | 40 | LC 560: SubArray Sum Equals k | Medium | C++ | [✅ Code](./c++/0040_Subarray_Sum_Equals_k.cpp)  |
 | 41 | LC 47: Permutations II | Medium | C++ | [✅ Code](./c++/0041_Permutations_II.cpp)  |
 | 42 | LC 51: N-Queens | Hard | C++ | [✅ Code](./c++/0042_N_Queens.cpp)  |
@@ -80,6 +80,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 61 | LC 79: Word Search | Medium | C++ | [✅ Code](./c++/0061_Word_Search.cpp)  |
 | 62 | LC 73: Set Matrix Zeroes | Medium | C++ | [✅ Code](./c++/0062_Set_Matrix_Zeroes.cpp)  |
 | 63 | LC 56: Merge Intervals | Medium | C++ | [✅ Code](./c++/0063_Merge_Intervals.cpp)  |
+| 64 | LC 85: Maximal Rectangle | Hard | C++ | [✅ Code](./c++/0064_Maximal_Rectangle.cpp)  |
 
 ## 📂 Repository Structure
 
