@@ -81,6 +81,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 62 | LC 73: Set Matrix Zeroes | Medium | C++ | [✅ Code](./c++/0062_Set_Matrix_Zeroes.cpp)  |
 | 63 | LC 56: Merge Intervals | Medium | C++ | [✅ Code](./c++/0063_Merge_Intervals.cpp)  |
 | 64 | LC 85: Maximal Rectangle | Hard | C++ | [✅ Code](./c++/0064_Maximal_Rectangle.cpp)  |
+| 65 | LC 101: Symmetric Tree | Easy | C++ | [✅ Code](./c++/0065_Symmetric_Tree.cpp)  |
 
 ## 📂 Repository Structure
 
