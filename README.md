@@ -82,6 +82,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 63 | LC 56: Merge Intervals | Medium | C++ | [✅ Code](./c++/0063_Merge_Intervals.cpp)  |
 | 64 | LC 85: Maximal Rectangle | Hard | C++ | [✅ Code](./c++/0064_Maximal_Rectangle.cpp)  |
 | 65 | LC 101: Symmetric Tree | Easy | C++ | [✅ Code](./c++/0065_Symmetric_Tree.cpp)  |
+| 66 | LC 84: Largest Rectangle In Histogram | Easy | C++ | [✅ Code](./c++/0065_Symmetric_Tree.cpp)  |
 
 ## 📂 Repository Structure
 
