@@ -84,6 +84,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 65 | LC 101: Symmetric Tree | Easy | C++ | [✅ Code](./c++/0065_Symmetric_Tree.cpp)  |
 | 66 | LC 84: Largest Rectangle In Histogram | Hard | C++ | [✅ Code](./c++/0066_Largest_Rectangle_In_Histogram.cpp)  |
 | 67 | LC 89: Gray Code | Medium | C++ | [✅ Code](./c++/0067_Gray_Code.cpp)  |
+| 68 | LC 97: Interleaving String | Medium | C++ | [✅ Code](./c++/0068_Interleaving_String.cpp)  |
 
 ## 📂 Repository Structure
 
