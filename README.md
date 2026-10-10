@@ -87,6 +87,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 68 | LC 97: Interleaving String | Medium | C++ | [✅ Code](./c++/0068_Interleaving_String.cpp)  |
 | 69 | LC 127: Word Ladder | Hard | C++ | [✅ Code](./c++/0069_Word_Ladder.cpp)  |
 | 70 | LC 135: Candy | Hard | C++ | [✅ Code](./c++/0070_Candy.cpp)  |
+| 71 | LC 140: Word Break II | Hard | C++ | [✅ Code](./c++/0071_Word_Break_II.cpp)  |
 
 ## 📂 Repository Structure
 
