@@ -89,6 +89,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 70 | LC 135: Candy | Hard | C++ | [✅ Code](./c++/0070_Candy.cpp)  |
 | 71 | LC 140: Word Break II | Hard | C++ | [✅ Code](./c++/0071_Word_Break_II.cpp)  |
 | 72 | LC 91: Decode Ways | Medium | C++ | [✅ Code](./c++/0072_Decode_Ways.cpp)  |
+| 73 | LC 174: Dungeon Game | Hard | C++ | [✅ Code](./c++/0073_Dungeon_Game.cpp)  |
 
 ## 📂 Repository Structure
 
