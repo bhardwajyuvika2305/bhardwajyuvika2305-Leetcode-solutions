@@ -91,6 +91,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 72 | LC 91: Decode Ways | Medium | C++ | [✅ Code](./c++/0072_Decode_Ways.cpp)  |
 | 73 | LC 174: Dungeon Game | Hard | C++ | [✅ Code](./c++/0073_Dungeon_Game.cpp)  |
 | 74 | LC 149: Max Points On A Line | Hard | C++ | [✅ Code](./c++/0074_Max_Points_On_A_Line.cpp)  |
+| 75 | LC 233: Number of Digit One | Hard | C++ | [✅ Code](./c++/0075_Number_Of_Digit_One.cpp)  |
 
 ## 📂 Repository Structure
 
