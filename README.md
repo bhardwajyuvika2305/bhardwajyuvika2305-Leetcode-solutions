@@ -92,6 +92,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 73 | LC 174: Dungeon Game | Hard | C++ | [✅ Code](./c++/0073_Dungeon_Game.cpp)  |
 | 74 | LC 149: Max Points On A Line | Hard | C++ | [✅ Code](./c++/0074_Max_Points_On_A_Line.cpp)  |
 | 75 | LC 233: Number of Digit One | Hard | C++ | [✅ Code](./c++/0075_Number_Of_Digit_One.cpp)  |
+| 76 | LC 179: Largest Number | Medium | C++ | [✅ Code](./c++/0076_Largest_Number.cpp)  |
 
 ## 📂 Repository Structure
 
