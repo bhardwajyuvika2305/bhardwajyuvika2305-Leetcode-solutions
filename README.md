@@ -93,7 +93,8 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 74 | LC 149: Max Points On A Line | Hard | C++ | [✅ Code](./c++/0074_Max_Points_On_A_Line.cpp)  |
 | 75 | LC 233: Number of Digit One | Hard | C++ | [✅ Code](./c++/0075_Number_Of_Digit_One.cpp)  |
 | 76 | LC 179: Largest Number | Medium | C++ | [✅ Code](./c++/0076_Largest_Number.cpp)  |
-| 77 | LC 301: Remove Invalid Parentheses | Hard | C++ | [✅ Code](./c++/0077_Remove_Invalid_Parentheses.cpp)  |
+| 77 | LC 301: Remove Invalid Parentheses | Hard | C++ | [✅ Code](./c++/0077_Remove_Invalid_Parentheses.cpp) |
+| 78 | LC 214: Shortest Palindrome | Hard | C++ | [✅ Code](./c++/0078_Shortest_Palindrome.cpp)  |
 
 ## 📂 Repository Structure
 
