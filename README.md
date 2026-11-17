@@ -96,6 +96,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 77 | LC 301: Remove Invalid Parentheses | Hard | C++ | [✅ Code](./c++/0077_Remove_Invalid_Parentheses.cpp) |
 | 78 | LC 214: Shortest Palindrome | Hard | C++ | [✅ Code](./c++/0078_Shortest_Palindrome.cpp)  |
 | 79 | LC 224: Basic Calculator | Hard | C++ | [✅ Code](./c++/0079_Basic_Calculator.cpp)  |
+| 80 | LC 174: Dungeon Game | Hard | C++ | [✅ Code](./c++/0080_Dungeon_Game.cpp)  |
 
 ## 📂 Repository Structure
 
