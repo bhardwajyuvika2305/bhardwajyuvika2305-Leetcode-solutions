@@ -97,6 +97,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 78 | LC 214: Shortest Palindrome | Hard | C++ | [✅ Code](./c++/0078_Shortest_Palindrome.cpp)  |
 | 79 | LC 224: Basic Calculator | Hard | C++ | [✅ Code](./c++/0079_Basic_Calculator.cpp)  |
 | 80 | LC 174: Dungeon Game | Hard | C++ | [✅ Code](./c++/0080_Dungeon_Game.cpp)  |
+| 81 | LC 207: Course Schedule | Medium | C++ | [✅ Code](./c++/0081_Course_Schedule.cpp)  |
 
 ## 📂 Repository Structure
 
