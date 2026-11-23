@@ -99,6 +99,7 @@ Welcome to my LeetCode journey! This repository contains my daily solutions to L
 | 80 | LC 174: Dungeon Game | Hard | C++ | [✅ Code](./c++/0080_Dungeon_Game.cpp)  |
 | 81 | LC 207: Course Schedule | Medium | C++ | [✅ Code](./c++/0081_Course_Schedule.cpp)  |
 | 82 | LC 262: Trips and Users | Hard | C++ | [✅ Code](./c++/0082_Trips_And_Users.cpp)  |
+| 83 | LC 130: Sorrounded Regions | Medium | C++ | [✅ Code](./c++/0083_Sorrounded_Regions.cpp)  |
 
 ## 📂 Repository Structure
 
